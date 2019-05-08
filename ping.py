@@ -1,7 +1,7 @@
 import os
 import telebot
 
-hostname = "nl1.proxyservers.online"
+hostname = "nl.proxyservers.online"
 channel = '@pingserver'
 token = '657395823:AAEeNxZEgU473zEoT-5_-dk6n1OnZl3oRw0'
 
